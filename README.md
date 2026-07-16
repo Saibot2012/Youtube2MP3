@@ -31,7 +31,7 @@ Designed with a clean graphical interface using CustomTkinter, Convo-Audio allow
 
 ### Main Window
 
- ![Main window](assets\C:\Users\Ho Gin Kiat\youtube2mp3\assets\window.png)
+ ![Main window](assets\window.png)
 
 
 
