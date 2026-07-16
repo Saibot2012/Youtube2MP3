@@ -31,7 +31,7 @@ Designed with a clean graphical interface using CustomTkinter, Convo-Audio allow
 
 ### Main Window
 
-> assets\Screenshot 2026-07-16 232009.png
+> ![Main window](assets\Screenshot 2026-07-16 232009.png)
 
 
 
